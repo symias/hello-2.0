@@ -12,6 +12,10 @@
      
     printf("Sydney Asbury\n"); 
     printf("Mechanical Engineering\n");
+
+    printf("Nina Van Ess\n"); 
+    printf("Computer Science\n");
+
      
     return 0;
  }
